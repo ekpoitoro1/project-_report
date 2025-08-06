@@ -21,11 +21,19 @@ The dataset was in CSV. format. The data set that was provided had two sheets (C
 The Customer Info contained 10001 rows and 8 columns, while the Account Info contained  10002 rows and 7 columns. The customer Info data set had 1 duplicate, while the Account Info data set had 2 duplicates.
 
 <img width="674" height="333" alt="image" src="https://github.com/user-attachments/assets/b4d869e7-cc95-4b0c-9c93-7754928797f2" />
-# Customer Account
 
+#### Customer Info
 
+<img width="631" height="336" alt="image" src="https://github.com/user-attachments/assets/5338ec91-a629-40e8-899e-f7b48accb681" />
+
+#### Account Info
+
+<img width="504" height="433" alt="image" src="https://github.com/user-attachments/assets/71c38466-7944-4315-91ad-917a280d1937" />
+
+#### Customer Data Dictionary
 
 # Data Analysis and Visualization
+
 
 
 # Insights and Recommendations
