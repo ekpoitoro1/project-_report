@@ -17,8 +17,16 @@ The data set was profiled, cleaned, and duplicates were removed. Some Columns we
 
 # Data Overview
 
+The dataset was in CSV. format. The data set that was provided had two sheets (Customer Info and Account Info).  Data Libraries were imported. A Data Dictionary was also provided, which captures information about the data set.
+The Customer Info contained 10001 rows and 8 columns, while the Account Info contained  10002 rows and 7 columns. The customer Info data set had 1 duplicate, while the Account Info data set had 2 duplicates.
+
+<img width="674" height="333" alt="image" src="https://github.com/user-attachments/assets/b4d869e7-cc95-4b0c-9c93-7754928797f2" />
+# Customer Account
+
+
 
 # Data Analysis and Visualization
+
 
 # Insights and Recommendations
 
