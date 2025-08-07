@@ -42,12 +42,67 @@ Some columns were added to the table. This includes Customer Status, Churned, Ag
 
 <img width="1100" height="210" alt="image" src="https://github.com/user-attachments/assets/41ef687e-f232-4f75-ac91-dfbb074eec75" />
 
-#### Comb_df - Cleaned Data Set 
+#### Comb_df - Cleaned Data Set
 
+## Key Performance Index (KPI)
+The KPI for this analysis is shown in the table below
+
+
+| KPI | Value|
+| :---: | :---: |
+| Total Customers | 9997 |
+| Male Customers | 5456 |
+| Female Customers | 4541 |
+| Churned Cuatomers | 2037 |
+| Churn Rate (%) | 20.38 |
+| Avg Credit Score | 650.55 |
+| Avg Balance | 76482.68 |
+| Avg products | 1.53 |
+| Avg Tenure | 5.01 |
+
+
+### Churned Customers by Age Distribution
+The Number of churned customers by Age Distribution is represented using the Bar plot below
+
+<img width="1063" height="561" alt="image" src="https://github.com/user-attachments/assets/adc407eb-88ed-442e-8cd3-7fccb9af90b8" />
+
+### Retained Customers by Age Distribution
+The Retained Customer by Age Distribution was also represented using a bar plot
+
+<img width="1088" height="576" alt="image" src="https://github.com/user-attachments/assets/adc7fa7f-55be-4630-96d2-fcad9318a069" />
+
+### Customer Churn and Retention Rates by Gender
+A Bar plot was also used to show the representation of the Churn and retention Rate by Gender
+
+<img width="704" height="384" alt="image" src="https://github.com/user-attachments/assets/03e3a02e-09f0-471d-aa38-308f9dd032c5" />
+
+<img width="719" height="390" alt="image" src="https://github.com/user-attachments/assets/3841d32a-d972-46ab-9478-a63bd3d95938" />
+
+| Gender | Churned| Retained |
+| :---: | :---: | :---: |                     
+| Female | 0.749174 | 0.250826 |
+| Male | 0.835411 | 0.164589 |
+
+The percentage retention rate for both males and females is 83.5411% and 74.9174% respectively
+The percentage churn rate for both males and females is 16.4589% and 25.0826% respectively
+
+### Average Credit Score by Churn Status
+This plot shows how credit score relates to customer churn. 
+
+<img width="670" height="388" alt="image" src="https://github.com/user-attachments/assets/9137f418-4721-4c17-80f7-0a3fa341a860" />
+
+### Churn Rate by Number of Bank Products Owned
+This plot gave a response to the question about how owning more bank products correlates with reduced churn
+<img width="1204" height="680" alt="image" src="https://github.com/user-attachments/assets/15367c51-bce5-42cc-9690-692d8cffc83b" />
+
+### Account Balance by Churn Status
+The average balance by Churn Status is represented using a bar chart 
+<img width="703" height="387" alt="image" src="https://github.com/user-attachments/assets/a3069921-80d1-4833-a978-654dc1e52d55" />
 
 
 
 # Data Analysis and Visualization
+
 
 
 # Insights and Recommendations
