@@ -138,6 +138,7 @@ The Average Customer Balance by Tenure was represented by a column plot
 
 
 # Insights and Recommendations
+The analysis of this data set showed that a significant portion of customers have churned, highliting a concern for customer retention.
 
 
 # Conclusion
