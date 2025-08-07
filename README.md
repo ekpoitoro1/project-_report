@@ -109,12 +109,12 @@ The plot of churn Rate(%) by balance range shows whether or not there is a balan
 <img width="1118" height="584" alt="image" src="https://github.com/user-attachments/assets/a839ec51-792a-457d-adf0-9f500b57f65d" />
 
 ### Average Number of Products by Churn Status
-The Average Number of Products by Churns Status was also shown using a column chat
+The Average Number of Products by Churn Status was also shown using a column chart
 
 <img width="681" height="473" alt="image" src="https://github.com/user-attachments/assets/1a97b471-fa8f-41b9-8ae5-e5bbe7d369fb" />
 
 ### Churn Rate by Customer Tenure
-A column chart was used to respomd to the question about if newer or long-term customers are more likely to exit 
+A column chart was used to respond to the question about whether newer or long-term customers are more likely to exit 
 <img width="1039" height="605" alt="image" src="https://github.com/user-attachments/assets/25446a1d-b275-4032-a6cb-40de4d3bb6fb" />
 
 ### Churn Rate Distribution Activity Status
@@ -136,9 +136,12 @@ The Average Customer Balance by Tenure was represented by a column plot
 <img width="1081" height="598" alt="image" src="https://github.com/user-attachments/assets/e883c9ec-828f-4f56-b839-6e6f7ee3a4f3" />
 
 
-
 # Insights and Recommendations
-The analysis of this data set showed that a significant portion of customers have churned, highliting a concern for customer retention.
+The analysis of this data set showed that a significant portion of customers have churned, highlighting a concern for customer retention. There were a significant number of male and female customers, although there were more males than female customers. 
+The was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is a possibility that most of these products, although valuable, may be underutilized by female customers.
+
+Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. 
+
 
 
 # Conclusion
