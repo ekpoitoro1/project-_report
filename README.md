@@ -44,6 +44,8 @@ Some columns were added to the table. This includes Customer Status, Churned, Ag
 
 #### Comb_df - Cleaned Data Set
 
+# # Data Analysis and Visualization
+
 ## Key Performance Index (KPI)
 The KPI for this analysis is shown in the table below
 
@@ -99,10 +101,13 @@ This plot gave a response to the question about how owning more bank products co
 The average balance by Churn Status is represented using a bar chart 
 <img width="703" height="387" alt="image" src="https://github.com/user-attachments/assets/a3069921-80d1-4833-a978-654dc1e52d55" />
 
+### Churn Rate by Balance Range
+The plot of churn Rate(%) by balance range shows whether or not there is a balance threshold above which customers are more likely to churn.
+<img width="1080" height="585" alt="image" src="https://github.com/user-attachments/assets/28071c62-eead-4daf-a7ba-71590ea6c5d4" />
 
+### Average Number of Products by Churn Status
 
-# Data Analysis and Visualization
-
+<img width="701" height="468" alt="image" src="https://github.com/user-attachments/assets/0c2e613d-1d6a-483d-8522-495ddc219af7" />
 
 
 # Insights and Recommendations
