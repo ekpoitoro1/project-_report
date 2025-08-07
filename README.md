@@ -84,7 +84,6 @@ The column chart of the churn rate by country shows the country with the highest
 
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/d08732da-1843-4e6b-9747-716208b746f5" />
 
-
 The percentage retention rate for both males and females is 83.5411% and 74.9174% respectively
 The percentage churn rate for both males and females is 16.4589% and 25.0826% respectively
 
@@ -93,21 +92,15 @@ This plot shows how credit score relates to customer churn.
 
 <img width="737" height="395" alt="image" src="https://github.com/user-attachments/assets/2a2a23a5-2b41-4cdc-b147-8e547980f5a2" />
 
-<img width="670" height="388" alt="image" src="https://github.com/user-attachments/assets/9137f418-4721-4c17-80f7-0a3fa341a860" />
-
 ### Churn Rate by Number of Bank Products Owned
 This plot gave a response to the question about how owning more bank products correlates with reduced churn
 
 <img width="873" height="499" alt="image" src="https://github.com/user-attachments/assets/bd804366-8d22-4cf5-988f-d6fcab4eae96" />
 
-<img width="1204" height="680" alt="image" src="https://github.com/user-attachments/assets/15367c51-bce5-42cc-9690-692d8cffc83b" />
-
 ### Account Balance by Churn Status
 The average balance by Churn Status is represented using a bar chart 
 
 <img width="686" height="389" alt="image" src="https://github.com/user-attachments/assets/11205e17-089f-49bf-ac57-feccadae4b70" />
-
-<img width="703" height="387" alt="image" src="https://github.com/user-attachments/assets/a3069921-80d1-4833-a978-654dc1e52d55" />
 
 
 ### Churn Rate by Balance Range
@@ -115,18 +108,36 @@ The plot of churn Rate(%) by balance range shows whether or not there is a balan
 
 <img width="1118" height="584" alt="image" src="https://github.com/user-attachments/assets/a839ec51-792a-457d-adf0-9f500b57f65d" />
 
-<img width="1080" height="585" alt="image" src="https://github.com/user-attachments/assets/28071c62-eead-4daf-a7ba-71590ea6c5d4" />
-
 ### Average Number of Products by Churn Status
+The Average Number of Products by Churns Status was also shown using a column chat
 
-![Uploading image.png…]()
-
-
-<img width="701" height="468" alt="image" src="https://github.com/user-attachments/assets/0c2e613d-1d6a-483d-8522-495ddc219af7" />
+<img width="681" height="473" alt="image" src="https://github.com/user-attachments/assets/1a97b471-fa8f-41b9-8ae5-e5bbe7d369fb" />
 
 ### Churn Rate by Customer Tenure
-How does customer tenure impact churn—are newer or long-term customers more likely to exit?"
+A column chart was used to respomd to the question about if newer or long-term customers are more likely to exit 
+<img width="1039" height="605" alt="image" src="https://github.com/user-attachments/assets/25446a1d-b275-4032-a6cb-40de4d3bb6fb" />
+
+### Churn Rate Distribution Activity Status
+A column chart was used to show if active members are significantly less likely to churn than inactive ones
+<img width="645" height="416" alt="image" src="https://github.com/user-attachments/assets/e883c41f-3457-42f2-bb20-196339548ff9" />
+
+### Balance Variability by Customer Tenure
+The stability of financial behavior (e.g., consistent balances) of customers in relation to longer account history was shown using a column chart.
+<img width="1130" height="593" alt="image" src="https://github.com/user-attachments/assets/5ee7f225-b4e7-46d1-8d97-5c36b7514da3" />
+
+# Is there a relationship between the number of products used and tenure length?
+The relationship between the number of products used by customers and customer tenure length is represented using a column chart
+<img width="1074" height="594" alt="image" src="https://github.com/user-attachments/assets/9f2cf958-09ff-4e38-9596-71f619cda161" />
+
+
+### Average Customer Balance by Tenure
+The Average Customer Balance by Tenure was represented by a column plot
+
+<img width="1081" height="598" alt="image" src="https://github.com/user-attachments/assets/e883c9ec-828f-4f56-b839-6e6f7ee3a4f3" />
+
+
 
 # Insights and Recommendations
+
 
 # Conclusion
