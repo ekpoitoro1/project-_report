@@ -125,6 +125,11 @@ A column chart was used to show if active members are significantly less likely 
 The stability of financial behavior (e.g., consistent balances) of customers in relation to longer account history was shown using a column chart.
 <img width="1130" height="593" alt="image" src="https://github.com/user-attachments/assets/5ee7f225-b4e7-46d1-8d97-5c36b7514da3" />
 
+### Credit Score Distribution by Customer Status
+the relationship between Customer Status (Active/Inactive) 
+<img width="928" height="494" alt="image" src="https://github.com/user-attachments/assets/a9dc3e7b-b411-4487-b489-a449853fd3f3" />
+
+
 # Is there a relationship between the number of products used and tenure length?
 The relationship between the number of products used by customers and customer tenure length is represented using a column chart
 <img width="1074" height="594" alt="image" src="https://github.com/user-attachments/assets/9f2cf958-09ff-4e38-9596-71f619cda161" />
@@ -142,9 +147,18 @@ The analysis of this data set showed that a significant portion of customers hav
 There was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is also a possibility that most of these products, although valuable, may be underutilized by female customers, thereby leading to low engagement.
 Retention rates between male and female customers are relatively similar, showing no significant gender bias in churn behavior. Gender-targeted churn strategies may not be necessary — focus should shift to behavioral and financial indicators.
 There is a gradual increase in the average number of products as tenure increases.
+The relationship between customer status and credit score shows that active customers had higher credit scores compared to inactive customers which Suggests they’re more financially stable and the bank may be retaining more reliable borrowers. Inactive Members may have experienced friction or credit-related rejection, leading to disengagement.
+
+
+
+The bank may be retaining more reliable borrowers.
+
+Higher scores might lead to more approved products, which keeps them active.
 
 Recommendation
-Marketing or retention campaigns might be inadvertently male-oriented, not addressing the specific needs or goals of female customers. Long-term customers tend to adopt more products, suggesting cross-selling efforts may be more successful with loyal customers.
+Marketing or retention campaigns might be inadvertently male-oriented, not addressing the specific needs or goals of female customers. Long-term customers tend to adopt more products, suggesting cross-selling efforts may be more successful with loyal customers. 
+Active customers tend to have higher average credit scores compared to inactive customers, suggesting that financial reliability plays a role in ongoing engagement.
+This indicates an opportunity to re-engage high-score inactive customers and offer credit improvement support to lower-score active ones."
 
 
 Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. This confirms that customer status is a strong predictor of customer retention.  A proactive approach to monitor and re-engage inactive customers can drastically reduce churn.
