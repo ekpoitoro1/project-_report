@@ -34,7 +34,7 @@ To start with, all duplicates in the data set were removed. This was followed by
 Customer Age was rounded to a whole number using the round method [customer_info['Age'] = customer_info['Age'].round(0)].
 Roles with Null Values were removed. Both Tables were merged (using the merge method). Items in roles such as Country, Surnames were corrected using the replace method.
 
-### Data Preparation
+## Data Preparation
 Some columns were added to the table. This includes Customer Status, Churned, Age Distribution, and Balance Range Columns. The customer status was created using information in the Active Member column. The Churned Column was created using information in the Exited column. Age Distribution was created using the age column, and the Balance Range column was created using the Balance column. Both Exited and Active Member columns were dropped using the drop method. 
 
 <img width="1100" height="210" alt="image" src="https://github.com/user-attachments/assets/41ef687e-f232-4f75-ac91-dfbb074eec75" />
@@ -44,7 +44,7 @@ Some columns were added to the table. This includes Customer Status, Churned, Ag
 # Data Analysis and Visualization
 
 ## Key Performance Index (KPI)
-The KPI for this analysis is shown in the table below
+The table below shows the KPI in this analysis 
 
 | KPI | Value|
 | :---: | :---: |
