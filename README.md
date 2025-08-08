@@ -139,15 +139,15 @@ The Average Customer Balance by Tenure was represented by a column plot
 # Insights and Recommendations
 The analysis of this data set showed that a significant portion of customers have churned, highlighting a concern for customer retention. There were a significant number of male and female customers, although there were more males than female customers. 
 
-The was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is also a possibility that most of these products, although valuable, may be underutilized by female customers, thereby leading to low engagement.
+There was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is also a possibility that most of these products, although valuable, may be underutilized by female customers, thereby leading to low engagement.
+Retention rates between male and female customers are relatively similar, showing no significant gender bias in churn behavior. Gender-targeted churn strategies may not be necessary — focus should shift to behavioral and financial indicators.
+There is a gradual increase in the average number of products as tenure increases.
 
 Recommendation
-Marketing or retention campaigns might be inadvertently male-oriented, not addressing the specific needs or goals of female customers.
+Marketing or retention campaigns might be inadvertently male-oriented, not addressing the specific needs or goals of female customers. Long-term customers tend to adopt more products, suggesting cross-selling efforts may be more successful with loyal customers.
 
 
-
-
-Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. 
+Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. This confirms that customer status is a strong predictor of customer retention.  A proactive approach to monitor and re-engage inactive customers can drastically reduce churn.
 
 
 
