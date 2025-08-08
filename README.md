@@ -1,6 +1,4 @@
-### Project Report
-
-
+# BANK COSTUMER DATA ANALYSIS
 
 # Executive Summary
 
@@ -55,6 +53,8 @@ The KPI for this analysis is shown in the table below
 | Total Customers | 9997 |
 | Male Customers | 5456 |
 | Female Customers | 4541 |
+| Active Customers | 5149 |
+| Inactive Customers | 4848 |
 | Churned Cuatomers | 2037 |
 | Churn Rate (%) | 20.38 |
 | Avg Credit Score | 650.55 |
@@ -74,14 +74,12 @@ The Retained Customer by Age Distribution was also represented using a bar plot
 
 ### Customer Churn and Retention Rates by Gender
 A Bar plot was also used to show the representation of the Churn and retention Rate by Gender
-
 <img width="813" height="565" alt="image" src="https://github.com/user-attachments/assets/7215a535-3713-4940-b019-ba2560b8b514" />
 
 <img width="709" height="567" alt="image" src="https://github.com/user-attachments/assets/e5f1204e-46ec-45ae-ab05-84665d2b2d33" />
 
 ### Churn Rate by Country
 The column chart of the churn rate by country shows the country with the highest Chun Rate.
-
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/d08732da-1843-4e6b-9747-716208b746f5" />
 
 The percentage retention rate for both males and females is 83.5411% and 74.9174% respectively
@@ -89,17 +87,14 @@ The percentage churn rate for both males and females is 16.4589% and 25.0826% re
 
 ### Average Credit Score by Churn Status
 This plot shows how credit score relates to customer churn. 
-
 <img width="737" height="395" alt="image" src="https://github.com/user-attachments/assets/2a2a23a5-2b41-4cdc-b147-8e547980f5a2" />
 
 ### Churn Rate by Number of Bank Products Owned
 This plot gave a response to the question about how owning more bank products correlates with reduced churn
-
 <img width="873" height="499" alt="image" src="https://github.com/user-attachments/assets/bd804366-8d22-4cf5-988f-d6fcab4eae96" />
 
 ### Account Balance by Churn Status
 The average balance by Churn Status is represented using a bar chart 
-
 <img width="686" height="389" alt="image" src="https://github.com/user-attachments/assets/11205e17-089f-49bf-ac57-feccadae4b70" />
 
 
@@ -126,43 +121,58 @@ The stability of financial behavior (e.g., consistent balances) of customers in 
 <img width="1130" height="593" alt="image" src="https://github.com/user-attachments/assets/5ee7f225-b4e7-46d1-8d97-5c36b7514da3" />
 
 ### Credit Score Distribution by Customer Status
-the relationship between Customer Status (Active/Inactive) 
+The column chat below shows the relationship between Customer Status (Active/Inactive).
 <img width="928" height="494" alt="image" src="https://github.com/user-attachments/assets/a9dc3e7b-b411-4487-b489-a449853fd3f3" />
 
+### Average credit score by country
+The average credit score by country was represented using a graph.
+<img width="891" height="497" alt="image" src="https://github.com/user-attachments/assets/ed45d28b-5a12-4e90-99dd-767b89e4eda1" />
 
-# Is there a relationship between the number of products used and tenure length?
+# Is there a relationship between the number of products used and tenure length
 The relationship between the number of products used by customers and customer tenure length is represented using a column chart
 <img width="1074" height="594" alt="image" src="https://github.com/user-attachments/assets/9f2cf958-09ff-4e38-9596-71f619cda161" />
 
 
 ### Average Customer Balance by Tenure
-The Average Customer Balance by Tenure was represented by a column plot
-
+The column chat below shows a representation of the Average Customer Balance by Tenure 
 <img width="1081" height="598" alt="image" src="https://github.com/user-attachments/assets/e883c9ec-828f-4f56-b839-6e6f7ee3a4f3" />
 
 
 # Insights and Recommendations
 The analysis of this data set showed that a significant portion of customers have churned, highlighting a concern for customer retention. There were a significant number of male and female customers, although there were more males than female customers. 
 
-There was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is also a possibility that most of these products, although valuable, may be underutilized by female customers, thereby leading to low engagement.
-Retention rates between male and female customers are relatively similar, showing no significant gender bias in churn behavior. Gender-targeted churn strategies may not be necessary — focus should shift to behavioral and financial indicators.
+There was also a noticeable churn rate of Female customers compared to male customers. This might be related to the fact that offerings (such as products or services) are more aligned with male financial behavior or interests. There is also a possibility that most of these products, although valuable, may be underutilized by female customers, thereby leading to low engagement. 
+
+The number of active customers was significantly high, compared to inactive customer which indicates good ongoing engagement with the bank’s services. This is a positive indicator of customer retention and could reflect satisfaction with banking products or services. 
+The churn rate distribution of the activity Status shows that more inactive customers churned compared to active customers. Active customers are more likely to adopt additional products ( such as loans, credit cards, etc.), therefore, understanding what keeps them active can inform cross-sell and upsell strategies.
+
+Retention rates between male and female customers are relatively similar, showing no significant gender bias in churn behavior. Gender-targeted churn strategies may not be necessary, therefore focus should shift to behavioral and financial indicators.
+
 There is a gradual increase in the average number of products as tenure increases.
-The relationship between customer status and credit score shows that active customers had higher credit scores compared to inactive customers which Suggests they’re more financially stable and the bank may be retaining more reliable borrowers. Inactive Members may have experienced friction or credit-related rejection, leading to disengagement.
+The relationship between customer status and credit score shows that active customers had higher credit scores compared to inactive customers which Suggests that they’re more financially stable and also the bank may be retaining more reliable borrowers. Also, higher scores might lead to more approved products, which keeps them active. Inactive Members may have experienced friction or credit-related rejection, leading to disengagement.
 
+The analysis of the average credit score by country shows that customers in Germany have the highest average credit score, followed by France, while Spain has the lowest. This could be due to stronger financial regulations and customer credit behavior in Germany. 
+The result of the average score by churn status analaysis indicates that Low credit scores are correlated with higher churn risk. The bank can, Preemptively reach out to customers with declining credit scores.
 
+Large fluctuations in balance over time may indicate financial instability and risk. The bank should develop risk flags based on balance volatility and also introduce financial tools like budgeting apps or savings nudges for customers with unstable balances.
 
-The bank may be retaining more reliable borrowers.
+Lower average score in other countries may suggest higher financial risk, limited access to financial services and peharps be due to different lending practices or demographics.The bank may consider tailoring risk models or product offerings by country to optimize service delivery and reduce churn.
 
-Higher scores might lead to more approved products, which keeps them active.
+# Recommendation
+Marketing or retention campaigns might be inadvertently male-oriented and therefore do not address the specific needs or goals of female customers. In order to solve this issue, the bank should ensure that females are considered more in their retention campaigns strategies. Long-term customers tend to adopt more products, suggesting cross-selling efforts may be more successful with loyal customers. 
 
-Recommendation
-Marketing or retention campaigns might be inadvertently male-oriented, not addressing the specific needs or goals of female customers. Long-term customers tend to adopt more products, suggesting cross-selling efforts may be more successful with loyal customers. 
+A noticeable portion of inactive customers suggests a potential churn risk. These customers are disengaged, possibly not using etheir accounts regularly or planning to exit. Therefore, the bank should consider segmenting inactive customers for re-engagement campaigns.
+
+Low credit scores are correlated with higher churn risk. The Bank should monitor trends in credit scores in order to flag at-risk customers. There can also be development of tailored financial products.
+
+Optimize Tenure-Based Product Recommendations beacaue longer-tenure customers tend to hold more products and show greater loyalty. In order to achieve this the bank can implement tenure-segmented marketing campaigns. Upsell to mid-tenure customers using personalized product bundles.
+
+Identify early-tenure customers and proactively onboard them to increase product adoption. Monitoring inactivity can help with proactive retention strategies.
 Active customers tend to have higher average credit scores compared to inactive customers, suggesting that financial reliability plays a role in ongoing engagement.
 This indicates an opportunity to re-engage high-score inactive customers and offer credit improvement support to lower-score active ones."
-
 
 Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. This confirms that customer status is a strong predictor of customer retention.  A proactive approach to monitor and re-engage inactive customers can drastically reduce churn.
 
 
-
 # Conclusion
+Based on the insight that demographic factors (like gender or age) show weaker correlations with churn, but behavioral and financial indicators (like credit score, tenure, account activity, product holding, and balance stability) show stronger predictive power, the bank should refocus its retention and engagement strategies accordingly. 
