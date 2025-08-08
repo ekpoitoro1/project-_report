@@ -62,7 +62,7 @@ The table below shows the KPI in this analysis
 
 
 ### Churned Customers by Age Distribution
-The Number of churned customers by Age Distribution is represented using the Bar plot below
+The Number of churned customers by Age Distribution is shown in the Bar plot below
 <img width="887" height="493" alt="image" src="https://github.com/user-attachments/assets/d8861174-0d80-44b2-834c-66fb39352189" />
 
 ### Retained Customers by Age Distribution
