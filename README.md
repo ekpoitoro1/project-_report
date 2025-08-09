@@ -186,7 +186,7 @@ For High-Product Customers (3–4 Products), the bank should ensure proactive Se
 
 For Low-Product Customers (1 Product), introduce relevant products slowly, starting with value-driven offers. Educate on the benefits of additional products without pressuring for quick sign-ups. For customers with 2 products, maintain service quality and incentives to keep them in the “low churn” zone. Upsell Strategically by adding a third product only when there’s a strong demonstrated need.
 
-Product Experience Audits: Identify and fix friction points across linked services.
+Identify and fix friction points across linked services.
 Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. This confirms that customer status is a strong predictor of customer retention. A proactive approach to monitor and re-engage inactive customers can drastically reduce churn.
 
 Strengthen Predictive Modeling Using Behavioral Data. Predictive analytics can preempt churn better with behavioral inputs.
