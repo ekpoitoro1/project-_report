@@ -155,6 +155,13 @@ The analysis of the average credit score by country shows that customers in Germ
 The result of the average score by churn status analysis indicates that Low credit scores are correlated with higher churn risk. 
 The bank can preemptively reach out to customers with declining credit scores.
 
+Unexpectedly, Youth (18–25) and Young Adults (26–35) show lower churn rates compared to older age brackets. While middle-aged customers (36–55) and senior citizens (56+) have higher churn rates, contradicting the common assumption that older customers are more loyal. Middle-aged customers may be in a peak earning/spending phase and are actively seeking better financial deals, making them more likely to switch providers. They could experience changing financial needs (e.g., mortgages, investments) that current services don’t meet.
+
+On the other hand, Senior Citizens May churn due to reduced financial activity, account consolidation, or transitioning funds to family members. Possible dissatisfaction with digital service accessibility or fees.
+
+From the analysis, customers with extremely high balances (often above the average range) tend to show a slightly higher churn rate. This may be linked to customers keeping funds in the account temporarily (e.g., before transferring or investing elsewhere) rather than using the account for regular transactions. 
+Low-balance customers also show churn tendencies, but for different reasons, possibly due to low engagement, lack of financial activity, or dissatisfaction with the account’s value proposition.
+
 Large fluctuations in balance over time may indicate financial instability and risk. The bank should develop risk flags based on balance volatility and also introduce financial tools like budgeting apps or savings nudges for customers with unstable balances.
 
 Lower average scores in other countries may suggest higher financial risk, limited access to financial services, and perhaps be due to different lending practices or demographics. The bank may consider tailoring risk models or product offerings by country to optimize service delivery and reduce churn.
