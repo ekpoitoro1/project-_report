@@ -126,7 +126,7 @@ The column chart below shows the relationship between Customer Status (Active/In
 The chart below is a representation of the average credit score by country.
 <img width="891" height="497" alt="image" src="https://github.com/user-attachments/assets/ed45d28b-5a12-4e90-99dd-767b89e4eda1" />
 
-# Is there a relationship between the number of products used and tenure length
+### Relationship between the number of products used and tenure length
 The relationship between the number of products used by customers and customer tenure length is represented using a column chart
 <img width="1074" height="594" alt="image" src="https://github.com/user-attachments/assets/9f2cf958-09ff-4e38-9596-71f619cda161" />
 
