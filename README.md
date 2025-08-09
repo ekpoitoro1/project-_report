@@ -149,7 +149,7 @@ Active customers are more likely to adopt additional products ( such as loans, c
 Retention rates between male and female customers are relatively similar, showing no significant gender bias in churn behavior. Gender-targeted churn strategies may not be necessary; therefore, focus should shift to behavioral and financial indicators.
 
 There is a gradual increase in the average number of products as tenure increases.
-The relationship between customer status and credit score shows that active customers had higher credit scores compared to inactive customers, which suggests that they’re more financially stable, and also the bank may be retaining more reliable borrowers. Also, higher scores might lead to more approved products, which keeps them active. Inactive Members may have experienced friction or credit-related rejection, leading to disengagement.
+The relationship between customer status and credit score shows that active customers had higher credit scores compared to inactive customers, which suggests that they’re more financially stable, and also, the bank may be retaining more reliable borrowers. Also, higher scores might lead to more approved products, which keeps them active. Inactive Members may have experienced friction or credit-related rejection, leading to disengagement.
 
 The analysis of the average credit score by country shows that customers in Germany have the highest average credit score, followed by France, while Spain has the lowest. This could be due to stronger financial regulations and customer credit behavior in Germany. 
 The result of the average score by churn status analysis indicates that Low credit scores are correlated with higher churn risk. 
@@ -163,6 +163,9 @@ From the analysis, customers with extremely high balances (often above the avera
 Low-balance customers also show churn tendencies, but for different reasons, possibly due to low engagement, lack of financial activity, or dissatisfaction with the account’s value proposition.
 
 Large fluctuations in balance over time may indicate financial instability and risk. The bank should develop risk flags based on balance volatility and also introduce financial tools like budgeting apps or savings nudges for customers with unstable balances.
+
+Customers with 4 products have the highest churn rate despite deep engagement with multiple services. These customers may be consolidating or leaving due to dissatisfaction with at least one product. 
+Second-highest churn rate is among 3-product holders, indicating that a higher product count does not guarantee loyalty. The customers with 2 products had the lowest Churn and appear to be the most stable, possibly a "spot" where customers have enough engagement to stay but not enough complexity to trigger dissatisfaction.
 
 Lower average scores in other countries may suggest higher financial risk, limited access to financial services, and perhaps be due to different lending practices or demographics. The bank may consider tailoring risk models or product offerings by country to optimize service delivery and reduce churn.
 
@@ -179,6 +182,11 @@ Identify early-tenure customers and proactively onboard them to increase product
 Active customers tend to have higher average credit scores compared to inactive customers, suggesting that financial reliability plays a role in ongoing engagement.
 This indicates an opportunity to re-engage high-score inactive customers and offer credit improvement support to lower-score active ones."
 
+For High-Product Customers (3–4 Products), the bank should ensure proactive Services such as Regular check-ins to identify unused products and adjust packages to fit actual needs. There should be exclusive Loyalty Benefits such as Priority support, better rates, or free add-ons for multi-product holders.
+
+For Low-Product Customers (1 Product), introduce relevant products slowly, starting with value-driven offers. Educate on the benefits of additional products without pressuring for quick sign-ups. For customers with 2 products, maintain service quality and incentives to keep them in the “low churn” zone. Upsell Strategically by adding a third product only when there’s a strong demonstrated need.
+
+Product Experience Audits: Identify and fix friction points across linked services.
 Inactive customers(65.3%) churn at glaringly higher rates than active customers(34.7%). A proactive approach to monitor and re-engage inactive customers can drastically reduce churn. This confirms that customer status is a strong predictor of customer retention. A proactive approach to monitor and re-engage inactive customers can drastically reduce churn.
 
 Strengthen Predictive Modeling Using Behavioral Data. Predictive analytics can preempt churn better with behavioral inputs.
